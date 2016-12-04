@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/appcolor</color>
+    <color name="colorPrimaryDark">@color/appcolor</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color1">#c6ff00</color>
+    <color name="color2">#02A8F4</color>
+    <color name="color3">#6739B7</color>
+
+    <color name="splash_color">#0385a3</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="yellow">#ffea00</color>
+
+    <color name="fb_color">#44619C</color>
+
+    <color name="appcolor">#02011a</color>
+
+    <color name="Blue_50">#E3F2FD</color>
+    <color name="Blue_60">#B32196F3</color>
+    <color name="Blue_40">#8C2196F3</color>
+    <color name="Blue_30">#802196F3</color>
+    <color name="Blue_20">#4D2196F3</color>
+    <color name="Blue_0">#332196F3</color>
+    <color name="Blue_100">#BBDEFB</color>
+    <color name="Blue_200">#90CAF9</color>
+    <color name="Blue_300">#64B5F6</color>
+    <color name="Blue_400">#42A5F5</color>
+    <color name="Blue_500">#2196F3</color>
+    <color name="Blue_600">#1E88E5</color>
+    <color name="Blue_700">#1976D2</color>
+    <color name="Blue_800">#1565C0</color>
+    <color name="Blue_900">#0D47A1</color>
+    <color name="A100">#82B1FF</color>
+    <color name="A200">#448AFF</color>
+    <color name="A400">#2979FF</color>
+
+    <color name="sky_blue">#01bdd6</color>
+    <color name="appred">#ff5353</color>
+
+    <!--Teal-->
+    <color name="Teal_1">#eff7f7</color>
+    <color name="Teal_2">#B2DFDB</color>
+    <color name="Teal_3">#80CBC4</color>
+    <color name="Teal_4">#4DB6AC</color>
+    <color name="Teal_5">#26A69A</color>
+    <color name="Teal_6">#009688</color>
+    <color name="Teal_7">#00897B</color>
+    <color name="Teal_8">#00796B</color>
+    <color name="Teal_9">#00695C</color>
+    <color name="Teal_10">#004D40</color>
+    <color name="Teal_11">#A7FFEB</color>
+    <color name="Teal_12">#64FFDA</color>
+    <color name="Teal_13">#1DE9B6</color>
+    <color name="Teal_14">#00BFA5</color>
+    <color name="Teal_50">#99004D40</color>
+    <color name="Teal_40">#8C004D40</color>
+    <color name="Teal_30">#80004D40</color>
+    <color name="Teal_20">#4D004D40</color>
+    <color name="Teal_0">#33004D40</color>
+
+    <!--black-->
+    <color name="Black_100">#FF000000</color>
+    <color name="Black_95">#F2000000</color>
+    <color name="Black_90">#E6000000</color>
+    <color name="Black_85">#D9000000</color>
+    <color name="Black_80">#CC000000</color>
+    <color name="Black_75">#BF000000</color>
+    <color name="Black_70">#B3000000</color>
+    <color name="Black_65">#A6000000</color>
+    <color name="Black_60">#99000000</color>
+    <color name="Black_55">#8C000000</color>
+    <color name="Black_50">#80000000</color>
+    <color name="Black_45">#73000000</color>
+    <color name="Black_40">#66000000</color>
+    <color name="Black_35">#59000000</color>
+    <color name="Black_30">#4D000000</color>
+    <color name="Black_25">#40000000</color>
+    <color name="Black_20">#33000000</color>
+    <color name="Black_15">#26000000</color>
+    <color name="Black_10">#1A000000</color>
+    <color name="Black_5">#0D000000</color>
+    <color name="Black_0">#00000000</color>
+
+
+    <!--white-->
+    <color name="White_100">#FFFFFFFF</color>
+    <color name="White_95">#F2FFFFFF</color>
+    <color name="White_90">#E6FFFFFF</color>
+    <color name="White_85">#D9FFFFFF</color>
+    <color name="White_80">#CCFFFFFF</color>
+    <color name="White_75">#BFFFFFFF</color>
+    <color name="White_70">#B3FFFFFF</color>
+    <color name="White_65">#A6FFFFFF</color>
+    <color name="White_60">#99FFFFFF</color>
+    <color name="White_55">#8CFFFFFF</color>
+    <color name="White_50">#80FFFFFF</color>
+    <color name="White_45">#73FFFFFF</color>
+    <color name="white_43">#E8E6E6</color>
+    <color name="White_40">#66FFFFFF</color>
+    <color name="White_35">#59FFFFFF</color>
+    <color name="White_30">#4DFFFFFF</color>
+    <color name="White_25">#40FFFFFF</color>
+    <color name="White_20">#33FFFFFF</color>
+    <color name="White_15">#26FFFFFF</color>
+    <color name="White_10">#1AFFFFFF</color>
+    <color name="White_5">#0DFFFFFF</color>
+    <color name="White_0">#00FFFFFF</color>
+
+
+    <!--misc color-->
+    <color name="dark_orange">#FF9800</color>
+    <color name="light_orange">#FFB74D</color>
+    <color name="red">#ff1919</color>
+    <color name="green">#198c19</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="text_selected">#888</color>
+    <color name="transparent_bg">#fff</color>
+    <color name="view_color">#33ffffff</color>
+    <color name="materialdark">#222222</color>
+    <color name="slidecolor1">#ffffff</color>
+    <color name="lightblue">#00BCD4</color>
+    <color name="darkblue">#5C6BC0</color>
+    <color name="lightgreen">#4CAF50</color>
+    <color name="white">#ffffff</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="TextBox">#ffffff</color>
+
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="green_050">#d0f8ce</color> <!-- Use with black text -->
+    <color name="green_100">#a3e9a4</color> <!-- Use with black text -->
+    <color name="green_200">#72d572</color> <!-- Use with black text -->
+    <color name="green_300">#42bd41</color> <!-- Use with black text -->
+    <color name="green_400">#2baf2b</color> <!-- Use with black text -->
+    <color name="green_500">#259b24</color> <!-- Use with white text -->
+    <color name="green_600">#0a8f08</color> <!-- Use with white text -->
+    <color name="green_700">#0a7e07</color> <!-- Use with white text -->
+    <color name="green_800">#056f00</color> <!-- Use with white text -->
+    <color name="green_900">#0d5302</color> <!-- Use with white text -->
+    <color name="green_a100">#a2f78d</color> <!-- Use with black text -->
+    <color name="green_a200">#5af158</color> <!-- Use with black text -->
+    <color name="green_a400">#14e715</color> <!-- Use with black text -->
+    <color name="green_a700">#12c700</color> <!-- Use with black text -->
+
+    <color name="amber_050">#fff8e1</color> <!-- Use with black text -->
+    <color name="amber_100">#ffecb3</color> <!-- Use with black text -->
+    <color name="amber_200">#ffe082</color> <!-- Use with black text -->
+    <color name="amber_300">#ffd54f</color> <!-- Use with black text -->
+    <color name="amber_400">#ffca28</color> <!-- Use with black text -->
+    <color name="amber_500">#ffc107</color> <!-- Use with black text -->
+    <color name="amber_600">#ffb300</color> <!-- Use with black text -->
+    <color name="amber_700">#ffa000</color> <!-- Use with black text -->
+    <color name="amber_800">#ff8f00</color> <!-- Use with black text -->
+    <color name="amber_900">#ff6f00</color> <!-- Use with black text -->
+    <color name="amber_a100">#ffe57f</color> <!-- Use with black text -->
+    <color name="amber_a200">#ffd740</color> <!-- Use with black text -->
+    <color name="amber_a400">#ffc400</color> <!-- Use with black text -->
+    <color name="amber_a700">#ffab00</color> <!-- Use with black text -->
+
+    <color name="g_color">#DD4C39</color>
+    <color name="twitter_color">#55ACEE</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soicio-world</string>
+
+    <string name="facebook_app_id">230087774089902</string>
+    <string name="twitter_api_key">Dg6srhpzIhH2PaqAlcbAZMxec</string>
+    <string name="twitter_secrate_key">ho88Ict0cwPFDP83UIEfTNjEEqyz2IDeYE7UaXI9hTyn9NnLzr</string>
+
+
+    <string name="instagram_client_id"> 373e4cd5a1cf4e02b7df1bff59f7f938</string>
+    <string name="instagram_callback_url">http://coolacharya.com/</string>
+    <string name="instagram_client_secret">2d2f07f0bb904b1281e98111476769e3</string>
+</resources>

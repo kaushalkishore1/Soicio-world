@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Soicio-world.iml" filepath="$PROJECT_DIR$/Soicio-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/k2veticalintro/k2veticalintro.iml" filepath="$PROJECT_DIR$/k2veticalintro/k2veticalintro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdk/pdk.iml" filepath="$PROJECT_DIR$/pdk/pdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/social-login/social-login.iml" filepath="$PROJECT_DIR$/social-login/social-login.iml" />
+    </modules>
+  </component>
+</project>

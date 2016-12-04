@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center|center_horizontal|center_vertical"
+    android:background="@color/Black_50"
+    android:fitsSystemWindows="true"
+    android:gravity="center|center_horizontal|center_vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/padding_val"
+        android:paddingRight="@dimen/padding_val"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/padding_val"
+            android:adjustViewBounds="true"
+            android:contentDescription="logo"
+            android:cropToPadding="true"
+            android:src="@drawable/sociobg" />
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:id="@+id/ripple_plus_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mrl_rippleAlpha="0.1"
+            app:mrl_rippleDuration="50"
+            app:mrl_rippleHover="true"
+            app:mrl_rippleOverlay="true">
+
+            <!--facebook login-->
+            <com.k2infosoft.social_login.FacebookButton
+                android:id="@+id/btn_facebook"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="Sign in with Facebook"
+                app:iconCenterAligned="false"
+                app:iconSize="30dp"
+                app:roundedCorner="true" />
+
+
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+        <!--google+ login-->
+
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:id="@+id/ripple_google_plus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mrl_rippleAlpha="0.1"
+            app:mrl_rippleDuration="50"
+            app:mrl_rippleHover="true"
+            app:mrl_rippleOverlay="true">
+
+            <com.k2infosoft.social_login.GooglePlusButton
+                android:id="@+id/btn_google_plus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="Sign in with Google"
+                android:textAlignment="center"
+                app:iconCenterAligned="false"
+                app:iconSize="30dp"
+                app:roundedCorner="true" />
+
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:id="@+id/ripple_linkedin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mrl_rippleAlpha="0.1"
+            app:mrl_rippleDuration="50"
+            app:mrl_rippleHover="true"
+            app:mrl_rippleOverlay="true">
+
+            <com.k2infosoft.social_login.LinkedInButton
+                android:id="@+id/btn_linkedin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="5dp"
+                android:layout_marginBottom="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:text="Sign in with LinkedIn"
+                app:iconCenterAligned="false"
+                app:iconSize="30dp"
+                app:roundedCorner="true">
+
+            </com.k2infosoft.social_login.LinkedInButton>
+
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:id="@+id/ripple_twitter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mrl_rippleAlpha="0.1"
+            app:mrl_rippleDuration="50"
+            app:mrl_rippleHover="true"
+            app:mrl_rippleOverlay="true">
+
+            <com.k2infosoft.social_login.TwitterButton
+                android:id="@+id/btn_twitter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginBottom="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:text="Sign in with Twitter"
+                app:iconCenterAligned="false"
+                app:iconSize="30dp"
+                app:roundedCorner="true">
+
+            </com.k2infosoft.social_login.TwitterButton>
+
+
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:id="@+id/ripple_instagram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mrl_rippleAlpha="0.1"
+            app:mrl_rippleDuration="50"
+            app:mrl_rippleHover="true"
+            app:mrl_rippleOverlay="true">
+
+            <com.k2infosoft.social_login.InstagramButton
+                android:id="@+id/btn_instagram"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginBottom="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:text="Sign in with Instagram"
+                app:iconCenterAligned="false"
+                app:iconSize="30dp"
+                app:roundedCorner="true">
+
+            </com.k2infosoft.social_login.InstagramButton>
+
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:id="@+id/ripple_pinterest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mrl_rippleAlpha="0.1"
+            app:mrl_rippleDuration="50"
+            app:mrl_rippleHover="true"
+            app:mrl_rippleOverlay="true">
+
+            <com.k2infosoft.social_login.PinterestButton
+                android:id="@+id/btn_pinterest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginBottom="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:text="Sign in with Pinterest"
+                app:iconCenterAligned="false"
+                app:iconSize="30dp"
+                app:roundedCorner="true">
+
+            </com.k2infosoft.social_login.PinterestButton>
+
+
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
